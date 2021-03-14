@@ -186,9 +186,41 @@
 // document.write(" Now the Value of --a is:"+a+"<br>")
 // var a=--a;
 // document.write(" Now the Value of a is:"+a+"<br>")
+// 2) 
+//3)
+// var user=prompt("Enter your name")
+
+// document.write("Wellcome "+user)
+
+// 5)
+// var a=parseInt(prompt("Enter number",5))
+// document.writeln("Table of"+a+" "+"<br>")
+// var x="x"
+// for (var b=1; b < 11; b++) {
+//     document.write("<tr>"+a+x+b+"="+a*b+"<br>");
+// }
+// 6) Incomplete 
+// var subName1=prompt("Enter your first subject")
+// var subName2=prompt("Enter your second subject")
+// var subName3=prompt("Enter your third subject")
+// var obt1=prompt("Enter your first marks")
+// var obt2=prompt("Enter your second marks")
+// var obj3=prompt("Enter your third marks")
+// var sub1=100
+// var sub2=100
+// var sub3=100
 
 
+// Chapter # 06-09 USER INPUT AND CONDITIONAL STATEMENTS
+// q1)
+// var city=prompt("Enter your city")
+// if(city=="karachi"){
+//     document.write("Wellcome to the city of lights")}
 
-
-
+//q2)           
+// var gender=prompt("Enter your gender")
+// if(gender=="Male"||gender=="male"){
+//     document.write("Good Morning Sir.")}
+// else if(gender=="Female"||gender=="female"){document.write("Good Morning Mam.")
+// }
 
